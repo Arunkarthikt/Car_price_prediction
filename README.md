@@ -114,12 +114,6 @@ car-price-prediction/
 ├── requirements.txt
 ├── dataset.csv
 └── README.md
-Future Improvements
-Improve accuracy using XGBoost or LightGBM
-Advanced feature engineering
-Deploy using cloud platforms (AWS / Render / Hugging Face)
-Add authentication system
-Build a full backend API using FastAPI or Flask
 Author
 
 Arun Sundar
